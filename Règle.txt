@@ -42,4 +42,4 @@ RÈGLE ET INDICATION SUPPLÉMENTAIRES:
 • En cas de doute sur l’interprétation du règlement, demandez l'avis d'un administrateur.
 • Mentir en disant “C’est un Admin qui m’a dit que [...] !” ne vous amènera que des ennuis.
 • La durée d’un ban est arbitrairement choisie par l’administrateur en charge de vous bannir.
-]]
+
