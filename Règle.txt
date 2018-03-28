@@ -1,4 +1,4 @@
-Voici les règles du serveur DarkRP.
+<font color="Blue">Voici les règles du serveur DarkRP.
 
 En respectant ces dernières, vous améliorez l'expérience du jeu pour vous et pour les autres.
 
@@ -43,3 +43,4 @@ RÈGLE ET INDICATION SUPPLÉMENTAIRES:
 • Mentir en disant “C’est un Admin qui m’a dit que [...] !” ne vous amènera que des ennuis.
 • La durée d’un ban est arbitrairement choisie par l’administrateur en charge de vous bannir.
 ]]
+</font>
